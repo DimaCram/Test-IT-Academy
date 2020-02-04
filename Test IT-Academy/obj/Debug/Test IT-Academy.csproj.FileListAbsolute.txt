@@ -1,0 +1,6 @@
+C:\Users\KRAMKOV\source\repos\Test IT-Academy\Test IT-Academy\bin\Debug\Test IT-Academy.exe.config
+C:\Users\KRAMKOV\source\repos\Test IT-Academy\Test IT-Academy\bin\Debug\Test IT-Academy.exe
+C:\Users\KRAMKOV\source\repos\Test IT-Academy\Test IT-Academy\bin\Debug\Test IT-Academy.pdb
+C:\Users\KRAMKOV\source\repos\Test IT-Academy\Test IT-Academy\obj\Debug\Test IT-Academy.csprojAssemblyReference.cache
+C:\Users\KRAMKOV\source\repos\Test IT-Academy\Test IT-Academy\obj\Debug\Test IT-Academy.exe
+C:\Users\KRAMKOV\source\repos\Test IT-Academy\Test IT-Academy\obj\Debug\Test IT-Academy.pdb
